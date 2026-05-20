@@ -37,7 +37,6 @@
       }
     }
   },
-
   "workspaceFolder": "/workspaces",
 
   "postCreateCommand": "./${RepositoryName}/.devcontainer/post-create.sh",
